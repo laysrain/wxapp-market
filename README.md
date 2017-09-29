@@ -1,4 +1,4 @@
-## wxapp-market
+## wxapp-market  (Seaya)
 
 小程序营销组件， Marketing components for WeChatApp
 
